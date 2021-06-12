@@ -3,12 +3,16 @@
 A project to create better tool containers for snapmaker tools.  
 
 ## Process
-- Trace outline of tools onto paper
-- Fill w/sharpie to get darker image
-- Scan to PNG
-- Use Inkscape to convert to outline
-- Clean up outline
-- Resize to create a tighter outline
+- Trace the outline of tools onto white paper
+- Color in shape with a Sharpie marker to get a darker image
+- Scan to PNG image
+- Import into Inkscape to create vector diagram
+-- Import PNG
+-- Path | Bitmap to Path
+-- Use path editing tools to clean up outline
+-- Resize to create a tighter outline for cutting
 
 - Use Luban to create CNC routing
-- Carve out shapes into material to act as holders
+-- CNC router
+-- Load SVG
+-- Carve out shapes into material to act as holders
