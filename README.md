@@ -6,9 +6,9 @@ My Snapmaker A350 came with a number of small parts and tools. I started this pr
 
 ## Final Pics
 
-[Test](images/tools.png)
+![Test](images/tools.png)
 
-[Holder Tray 1](trays/holder tray/IMG_6914.JPG)
+![Holder Tray 1]("trays/holder tray/IMG_6914.JPG")
 [Holder Tray 2](trays/holder tray/IMG_6915.JPG)
 
 [Tool Tray 1]("trays/tool and bit tray/IMG_6917.JPG")
