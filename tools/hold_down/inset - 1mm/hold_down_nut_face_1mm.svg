@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.996794mm"
+   height="9.8608513mm"
+   viewBox="0 0 15.996793 9.8608516"
+   version="1.1"
+   id="svg55"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="hold_down_nut_1mm.svg">
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.254189"
+     inkscape:cx="42.286659"
+     inkscape:cy="19.36792"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1850"
+     inkscape:window-height="995"
+     inkscape:window-x="1669"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid69"
+       originx="-49.534358"
+       originy="0.27466961" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.78182,-105.31636)">
+    <path
+       id="path1650-3"
+       style="fill:#000000;stroke-width:0.127072"
+       d="m 109.4287,105.32626 c 0,1.04087 -0.13901,1.0666 -0.53611,1.06389 -0.7868,-0.005 -1.8906,0.0568 -2.3903,0.72247 -0.85782,1.14273 -0.80251,3.19645 -0.0454,4.28638 3.50097,5.03994 11.17389,5.03994 14.61248,-0.014 0.74761,-1.09881 0.83058,-3.11955 -0.0134,-4.26261 -0.49085,-0.66479 -1.30852,-0.73761 -2.36696,-0.73719 -0.3432,1.4e-4 -0.52917,-0.0176 -0.52917,-1.05851 -2.94811,-0.006 -6.20354,-0.0199 -8.73125,0 z"
+       sodipodi:nodetypes="csassasccc" />
+  </g>
+</svg>
