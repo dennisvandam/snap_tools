@@ -12,7 +12,7 @@ My Snapmaker A350 came with a number of small parts and tools. I started this pr
 
 ## Process for creating tool outlines
 - For simple tools and containers
-  - Use Inkscape to draw a basic shape
+  - Use [Inkscape](https://inkscape.org/) to draw a basic shape
   - Keeps it simple - remember that each tool has multiple profiles and rectangles are easy to draw
   - Resize (inset, outset) to account for router bit profiles
 
