@@ -2,7 +2,7 @@
 
 A project to create tool holders for Snapmaker tools.
 
-My Snapmaker A350 came with a number of small parts and tools. I started this project to create some trays to store the parts in an organized and visible way.  I considered cutting the trays out of scrap wood but realized that styrofoam blocks were very easy to cut and lighter weight.
+My Snapmaker A350 came with a number of small parts and tools. I started this project to create some trays to store the parts in an organized and visible way.  I considered cutting the trays out of scrap wood but realized that styrofoam blocks were easier to cut and lighter weight.
 
 ## Final Pics
 
