@@ -49,7 +49,7 @@ My Snapmaker A350 came with a number of small parts and tools. I started this pr
   - Small scraps of discarded pine
   - Works well but is heavier and harder to cut
 
-## Tools/Parts
+## Tools and Parts
 
 Each tool or part has a separate set of files.  Trays are created by dropping individual part SVGs onto a single CNC file with cutting paths for each one.
 
@@ -83,10 +83,16 @@ Each tool or part has a separate set of files.  Trays are created by dropping in
   - Outline of wrench to hold in place
   - <img src="tools/head_wrench/wrench_actual.svg" height="32" title="Head Wrench">
 
-- [Hold Down](https://github.com/dennisvandam/snap_tools/tree/main/tools/hold_down)
+- [Hold Down](main/tools/hold_down)
   - Hold down and hold down nut used to secure materials to Snapmaker table
   - Includes outlines for face as well top (rectangle)
   - <img src="tools/hold_down/hold_down_and_nut_face.JPG" height="32" title="Hold Down And Nut Face">
   - <img src="tools/hold_down/full size/hold_down_face.svg" height="32" title="Hold Down Face"> <img src="tools/hold_down/full size/hold_down_nut_face.svg" height="32" title="Hold Down Nut Face">
 
+## Trays
 
+Trays are created by dropping the various tools and parts onto a single CNC file and creating routing cuts for each.
+
+- [Holder Tray](trays/holder_tray)
+  - Tray for the hold downs and nuts
+  - <img src="trays/holder_tray/holder%20tray.svg" height="32" title="Hold Down Holder Tray">
