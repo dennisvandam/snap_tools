@@ -53,37 +53,37 @@ My Snapmaker A350 came with a number of small parts and tools. I started this pr
 
 Each tool or part has a separate set of files.  Trays are created by dropping individual part SVGs onto a single CNC file with cutting paths for each one.
 
-- [Bit Box 10x55mm](https://github.com/dennisvandam/snap_tools/tree/main/tools/bit_box_10x55)
+- [Bit Box 10x55mm](tools/bit_box_10x55)
   - small box of router bits
   - rectangle slot for bit box to stand in
   - <img src="tools/bit_box_10x55/bit_box_10x55.JPG" height="32" title="Bit Box 10x55mm">
 
-- [Bit Box 10x88mm](https://github.com/dennisvandam/snap_tools/tree/main/tools/bit_box_10x88)
+- [Bit Box 10x88mm](tools/bit_box_10x88)
   - small box of router bits 
   - rectangle slot for box to stand in
   - <img src="tools/bit_box_10x88/bit_box_10x88.JPG" height="32" title="Bit Box 10x88mm">
 
-- [Bit Box 13x13x70mm](https://github.com/dennisvandam/snap_tools/tree/main/tools/bit_box_13x13x70)
+- [Bit Box 13x13x70mm](tools/bit_box_13x13x70)
   - single router bit box that comes with the Snapmaker 
   - square for box to stand in (13x13mm)
   - <img src="tools/bit_box_13x13x70/bit_box_13x13x70.JPG" height="32" title="Bit Box 13x13x70mm">
 
-- [Collet Box](https://github.com/dennisvandam/snap_tools/tree/main/tools/collet_box)
+- [Collet Box](tools/collet_box)
   - collect box shapes including the one that came with Snapmaker (cylinder) and some square ones 
   - square for box to stand in (22x22mm)
   - <img src="tools/collet_box/collet_box.JPG" height="32" title="Collet Box">
 
-- [Collet Wrench](https://github.com/dennisvandam/snap_tools/tree/main/tools/collet_wrench)
+- [Collet Wrench](tools/collet_wrench)
   - collect wrench that came with Snapmaker
   - rectangle slot for wrench to stand in
   - <img src="tools/collet_wrench/IMG_6889.JPG" height="32" title="Collet Wrench">
 
-- [Head Wrench](https://github.com/dennisvandam/snap_tools/tree/main/tools/head_wrench)
+- [Head Wrench](tools/head_wrench)
   - Wrench that came with Snapmaker and used to change the head
   - Outline of wrench to hold in place
   - <img src="tools/head_wrench/wrench_actual.svg" height="32" title="Head Wrench">
 
-- [Hold Down](main/tools/hold_down)
+- [Hold Down](tools/hold_down)
   - Hold down and hold down nut used to secure materials to Snapmaker table
   - Includes outlines for face as well top (rectangle)
   - <img src="tools/hold_down/hold_down_and_nut_face.JPG" height="32" title="Hold Down And Nut Face">
