@@ -49,7 +49,9 @@ My Snapmaker A350 came with a number of small parts and tools. I started this pr
   - Small scraps of discarded pine
   - Works well but is heavier and harder to cut
 
-## Part
+## Tools/Parts
+
+Each tool or part has a separate set of files.  Trays are created by dropping individual part SVGs onto a single CNC file with cutting paths for each one.
 
 - [Bit Box 10x55mm](https://github.com/dennisvandam/snap_tools/tree/main/tools/bit_box_10x55)
   - small box of router bits
