@@ -95,4 +95,4 @@ Trays are created by dropping the various tools and parts onto a single CNC file
 
 - [Holder Tray](trays/holder_tray)
   - Tray for the hold downs and nuts
-  - <img src="trays/holder_tray/holder%20tray.svg" height="32" title="Hold Down Holder Tray">
+  - <img src="trays/holder_tray/holder%20tray.svg" height="64" title="Hold Down Holder Tray"> <img src="trays/holder_tray/IMG_6914.JPG" height="64" title="Hold Down Holder Tray">
